@@ -1,0 +1,7 @@
+{
+  "name": "Pāra — Transit & Focus Companion",
+  "description": "Minimalist offline-first Sri Lanka bus transit app with haptic micro-interactions, glassmorphism navigation, stage-by-stage fares, trip planner, and deep work focus companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
